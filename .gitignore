@@ -1,0 +1,13 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Runtime data
+books.txt
+
+# IDE/editor files
+.vscode/
+.idea/
+*.code-workspace
